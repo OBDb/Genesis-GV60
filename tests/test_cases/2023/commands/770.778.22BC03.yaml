@@ -1,0 +1,12 @@
+command_id: 770.778.22BC03
+test_cases:
+- expected_values:
+    GV60_LOW_BEAMS: 24
+  response: |-
+    778100B62BC03FD8E38
+    778216300001800AAAA
+- expected_values:
+    GV60_LOW_BEAMS: 24
+  response: |-
+    778100B62BC03FD8E38
+    778216300601800AAAA
