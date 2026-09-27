@@ -26,6 +26,16 @@ test_cases:
     778100B62BC03FD8E38
     778216300601C02AAAA
 - expected_values:
+    GV60_LOW_BEAMS: 0
+  response: |-
+    778100B62BC03FD8E38
+    77821630A000000AAAA
+- expected_values:
+    GV60_LOW_BEAMS: 4
+  response: |-
+    778100B62BC03FD8E38
+    77821630A600400AAAA
+- expected_values:
     GV60_LOW_BEAMS: 4
   response: |-
     778100B62BC03FD8E38
