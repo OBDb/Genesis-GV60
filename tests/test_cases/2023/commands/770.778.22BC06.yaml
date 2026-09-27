@@ -6,6 +6,16 @@ test_cases:
     778100B62BC06B40000
     778210000000000AAAA
 - expected_values:
+    GV60_BRAKE_LIGHT: 36
+  response: |-
+    778100B62BC06B40000
+    778210024000000AAAA
+- expected_values:
+    GV60_BRAKE_LIGHT: 40
+  response: |-
+    778100B62BC06B40000
+    778210028000000AAAA
+- expected_values:
     GV60_BRAKE_LIGHT: 44
   response: |-
     778100B62BC06B40000
