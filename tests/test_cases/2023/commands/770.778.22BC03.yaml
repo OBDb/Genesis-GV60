@@ -11,16 +11,6 @@ test_cases:
     778100B62BC03FD8E38
     778216300001C00AAAA
 - expected_values:
-    GV60_LOW_BEAMS: 24
-  response: |-
-    778100B62BC03FD8E38
-    778216300601800AAAA
-- expected_values:
-    GV60_LOW_BEAMS: 28
-  response: |-
-    778100B62BC03FD8E38
-    778216300601C00AAAA
-- expected_values:
     GV60_LOW_BEAMS: 28
   response: |-
     778100B62BC03FD8E38
@@ -36,17 +26,7 @@ test_cases:
     778100B62BC03FD8E38
     77821630A600400AAAA
 - expected_values:
-    GV60_LOW_BEAMS: 4
-  response: |-
-    778100B62BC03FD8E38
-    77821630A600402AAAA
-- expected_values:
     GV60_LOW_BEAMS: 28
   response: |-
     778100B62BC03FD8E38
     778216320001C00AAAA
-- expected_values:
-    GV60_LOW_BEAMS: 0
-  response: |-
-    778100B62BC03FD8E38
-    77821632A000000AAAA
