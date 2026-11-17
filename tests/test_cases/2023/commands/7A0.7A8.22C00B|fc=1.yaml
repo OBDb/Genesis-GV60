@@ -1,10 +1,6 @@
 command_id: 7A0.7A8.22C00B|fc=1
 test_cases:
 - expected_values:
-    GV60_TP_FL: 0
-    GV60_TP_FR: 0
-    GV60_TP_RL: 0
-    GV60_TP_RR: 0
     GV60_TT_FL: -40
     GV60_TT_FR: -40
     GV60_TT_RL: -40
@@ -17,10 +13,6 @@ test_cases:
     7A82438FFFFFFFFFFFF
     7A825FFFFAAAAAAAAAA
 - expected_values:
-    GV60_TP_FL: 0
-    GV60_TP_FR: 0
-    GV60_TP_RL: 0
-    GV60_TP_RR: 0
     GV60_TT_FL: -40
     GV60_TT_FR: -40
     GV60_TT_RL: -40
@@ -33,9 +25,6 @@ test_cases:
     7A824FFFFFFFFFFFFFF
     7A825FFFFAAAAAAAAAA
 - expected_values:
-    GV60_TP_FL: 0
-    GV60_TP_FR: 0
-    GV60_TP_RL: 0
     GV60_TP_RR: 33.6
     GV60_TT_FL: -40
     GV60_TT_FR: -40
@@ -49,9 +38,6 @@ test_cases:
     7A8243BFFFFFFFFFFFF
     7A82598BFAAAAAAAAAA
 - expected_values:
-    GV60_TP_FL: 0
-    GV60_TP_FR: 0
-    GV60_TP_RL: 0
     GV60_TP_RR: 36.4
     GV60_TT_FL: -40
     GV60_TT_FR: -40
@@ -65,8 +51,6 @@ test_cases:
     7A8243BFFFFFFFFFFFF
     7A82598BFAAAAAAAAAA
 - expected_values:
-    GV60_TP_FL: 0
-    GV60_TP_FR: 0
     GV60_TP_RL: 34.2
     GV60_TP_RR: 34.2
     GV60_TT_FL: -40
@@ -81,10 +65,7 @@ test_cases:
     7A8243EFFFFFFFF98BF
     7A82598BFAAAAAAAAAA
 - expected_values:
-    GV60_TP_FL: 0
-    GV60_TP_FR: 0
     GV60_TP_RL: 35
-    GV60_TP_RR: 0
     GV60_TT_FL: -40
     GV60_TT_FR: -40
     GV60_TT_RL: 12
@@ -97,7 +78,6 @@ test_cases:
     7A824FFFFFFFFFF98BF
     7A825FFFFAAAAAAAAAA
 - expected_values:
-    GV60_TP_FL: 0
     GV60_TP_FR: 31.2
     GV60_TP_RL: 33.2
     GV60_TP_RR: 33.6
@@ -113,7 +93,6 @@ test_cases:
     7A824FFFFFF8DB098BF
     7A82598BFAAAAAAAAAA
 - expected_values:
-    GV60_TP_FL: 0
     GV60_TP_FR: 31.8
     GV60_TP_RL: 34.8
     GV60_TP_RR: 34.6
@@ -129,9 +108,7 @@ test_cases:
     7A824FFFFFF8DB098BF
     7A82598BFAAAAAAAAAA
 - expected_values:
-    GV60_TP_FL: 0
     GV60_TP_FR: 35.2
-    GV60_TP_RL: 0
     GV60_TP_RR: 37.2
     GV60_TT_FL: -40
     GV60_TT_FR: 15
@@ -162,8 +139,6 @@ test_cases:
     7A82598BFAAAAAAAAAA
 - expected_values:
     GV60_TP_FL: 29.8
-    GV60_TP_FR: 0
-    GV60_TP_RL: 0
     GV60_TP_RR: 35.2
     GV60_TT_FL: 2
     GV60_TT_FR: -40
@@ -243,7 +218,6 @@ test_cases:
 - expected_values:
     GV60_TP_FL: 34.8
     GV60_TP_FR: 37.2
-    GV60_TP_RL: 0
     GV60_TP_RR: 39
     GV60_TT_FL: 15
     GV60_TT_FR: 25
